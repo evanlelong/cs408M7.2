@@ -27,3 +27,4 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+There should be nothing else other than live preview to view this project :)
